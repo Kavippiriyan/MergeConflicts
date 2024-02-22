@@ -2,4 +2,5 @@
 
 **Objective**
 
-    -How to solve the conflicts during Merge 
+    1 How to solve the conflicts during Merge 
+    
