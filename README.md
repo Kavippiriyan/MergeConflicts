@@ -28,7 +28,8 @@
 
 `sample.txt`
 
-![img](https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg)
+![img](<img src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg" alt="Programmer" width="50" height="50">
+)
 
 
     
