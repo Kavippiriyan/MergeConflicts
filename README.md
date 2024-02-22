@@ -3,6 +3,7 @@
 - How to solve the conflicts during Merge
 
 **Steps**
+
 1 create 2 new branches
 2 create a file and push to main
 3 switch to first branch and make a change then push to first branch
