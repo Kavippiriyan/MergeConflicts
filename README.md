@@ -2,7 +2,7 @@
 
 **Objective**
 
-'How to solve the conflicts during Merge'
+-How to solve the conflicts during Merge
     
     
     
