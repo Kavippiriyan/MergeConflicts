@@ -1,5 +1,5 @@
 # Merge Conflicts
-==Objective==
+== Objective ==
 - How to solve the conflicts during Merge
     
     
